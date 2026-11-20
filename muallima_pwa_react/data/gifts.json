@@ -1,0 +1,37 @@
+[
+  {
+    "id": "gift_1",
+    "giftName": "Shokolad",
+    "priceCoins": 100,
+    "icon": "🍫",
+    "description": "Sevimli shirinlik (Dilnavoz uchun maxsus)"
+  },
+  {
+    "id": "gift_2",
+    "giftName": "Sevimli qahvaxonada kofe",
+    "priceCoins": 250,
+    "icon": "☕",
+    "description": "Eng shinam qahvaxonada kofe date"
+  },
+  {
+    "id": "gift_3",
+    "giftName": "Kitob do‘konidan yangi kitob",
+    "priceCoins": 500,
+    "icon": "📚",
+    "description": "Siz yoqtirgan mavzudagi ajoyib yangi kitob"
+  },
+  {
+    "id": "gift_4",
+    "giftName": "Gul dastasi",
+    "priceCoins": 750,
+    "icon": "💐",
+    "description": "Muallimaga loyiq eng nafis gullar guldastasi"
+  },
+  {
+    "id": "gift_5",
+    "giftName": "Kino yoki teatr chiptasi",
+    "priceCoins": 1000,
+    "icon": "🎬",
+    "description": "Birgalikda romantik va qiziqarli kino/teatr oqshomi"
+  }
+]

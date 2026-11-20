@@ -1,0 +1,77 @@
+[
+  {
+    "studentName": "Fotima",
+    "studentAvatar": "🧕",
+    "topic": "Mubtado va xabar moslashuvi",
+    "arabicText": "الطَّالِبَةُ مُجْتَهِدٌ فِي الدَّرْسِ",
+    "errors": [
+      {
+        "wrong": "مُجْتَهِدٌ",
+        "correct": "مُجْتَهِدَةٌ",
+        "options": ["مُجْتَهِدَةٌ", "مُجْتَهِدُونَ", "مُجْتَهِدَانِ"],
+        "reason": "Mubtado ayol jinsidagi birlikda kelgan, shuning uchun xabar ham ayol jinsida bo‘lishi kerak."
+      }
+    ],
+    "rewardCoins": 50
+  },
+  {
+    "studentName": "Umar",
+    "studentAvatar": "👳‍♂️",
+    "topic": "Olmosh va hozirgi zamon fe’li",
+    "arabicText": "أَنَا يَكْتُبُ الدَّرْسَ",
+    "errors": [
+      {
+        "wrong": "يَكْتُبُ",
+        "correct": "أَكْتُبُ",
+        "options": ["أَكْتُبُ", "تَكْتُبُ", "نَكْتُبُ"],
+        "reason": "أَنَا — birinchi shaxs birlik olmoshi. U bilan fe’l أَكْتُبُ shaklida keladi."
+      }
+    ],
+    "rewardCoins": 50
+  },
+  {
+    "studentName": "Maryam",
+    "studentAvatar": "🌸",
+    "topic": "Qaratqich birikmasi (idofa)",
+    "arabicText": "قَلَمُ الطَّالِبُ جَدِيدٌ",
+    "errors": [
+      {
+        "wrong": "الطَّالِبُ",
+        "correct": "الطَّالِبِ",
+        "options": ["الطَّالِبِ", "الطَّالِبَ", "الطَّالِبٌ"],
+        "reason": "Idofada mudof ilayh doimo majrur bo‘ladi, shuning uchun oxiri kasra bilan keladi."
+      }
+    ],
+    "rewardCoins": 50
+  },
+  {
+    "studentName": "Ali",
+    "studentAvatar": "👦",
+    "topic": "Ikkilikdagi fe’l moslashuvi",
+    "arabicText": "الطَّالِبَانِ يَذْهَبُونَ إِلَى الْمَدْرَسَةِ",
+    "errors": [
+      {
+        "wrong": "يَذْهَبُونَ",
+        "correct": "يَذْهَبَانِ",
+        "options": ["يَذْهَبَانِ", "يَذْهَبُ", "يَذْهَبُونَ"],
+        "reason": "الطَّالِبَانِ ikkilikda kelgan, shuning uchun fe’l ham ikkilik shaklida bo‘lishi kerak."
+      }
+    ],
+    "rewardCoins": 50
+  },
+  {
+    "studentName": "Zaynab",
+    "studentAvatar": "🌷",
+    "topic": "Ko‘rsatish olmoshlari",
+    "arabicText": "هَذَا بِنْتٌ مُجْتَهِدَةٌ",
+    "errors": [
+      {
+        "wrong": "هَذَا",
+        "correct": "هَذِهِ",
+        "options": ["هَذِهِ", "هَذَا", "هَؤُلَاءِ"],
+        "reason": "بِنْتٌ ayol jinsidagi birlik ot, unga هَذِهِ ko‘rsatish olmoshi mos keladi."
+      }
+    ],
+    "rewardCoins": 50
+  }
+]
